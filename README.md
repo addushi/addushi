@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @addushi
+- 👋 Hi, I’m @ad
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on learning with new friends
